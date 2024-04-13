@@ -1,0 +1,58 @@
+[
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1747530356.561241,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GA1.1.270254833.1712970235",
+    "id": 1
+},
+{
+    "domain": ".chromewebstore.google.com",
+    "expirationDate": 1747530463.500847,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "_ga_KHZNC1Q6K0",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "GS1.1.1712970235.1.1.1712970463.0.0.0",
+    "id": 2
+},
+{
+    "domain": ".google.com",
+    "expirationDate": 1728781436.267764,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "NID",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "513=ZNWzlTcS9OUihodCi-Hs5nzgMfVkEsV7sJkI3UXZxxCqskoi5VqhSEejALwj1B2xgVHfU_6HDfTJCc_eFpepkNmwj34ORWNDhZs9FHig7JvCO7FahKYiyHr0qK2gCGz30vMWiiE69KBaoenPaaPEtbbsGUrUvN4SymoWwXMlyeY",
+    "id": 3
+},
+{
+    "domain": "chromewebstore.google.com",
+    "expirationDate": 1715562423,
+    "hostOnly": true,
+    "httpOnly": false,
+    "name": "OTZ",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "7511107_52_52__52_",
+    "id": 4
+}
+]
